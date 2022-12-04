@@ -1,3 +1,4 @@
 git kursundayım ve öğrenmek üzereyim komutlara iyi bakmak lazım
         git kursunu öğreniyoruz
+        git ignore tmaam
         
